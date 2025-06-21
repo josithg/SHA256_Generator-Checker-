@@ -1,4 +1,4 @@
-#SHA-256 Hash Checker
+# SHA-256 Hash Checker
 
 A simple Python script for generating and verifying SHA-256 file hashes.
 - Uses Python's built-in hashlib library.
