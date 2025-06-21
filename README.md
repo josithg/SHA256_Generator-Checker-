@@ -1,2 +1,5 @@
-# Python script for Hash Generation and checking
-HASHLIB library is used to generate SHA256 hash and compare it with original hash
+#SHA-256 Hash Checker
+
+A simple Python script for generating and verifying SHA-256 file hashes.
+- Uses Python's built-in hashlib library.
+- Allows users to select a file, generate its SHA-256 hash, and optionally compare it with a provided hash
